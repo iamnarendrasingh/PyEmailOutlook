@@ -15,13 +15,7 @@ This is a simple desktop application built in Python using the `tkinter` library
 
 ## Setup
 
-1. Ensure that the following directory structure is in place:
-
-├─ PyEmailOutlook
-│ ├─ email_sender_app.py
-│ └─ send_email.py
-└─ Email.xlsx
-
+1. Ensure that the following directory structure is in one place
 
 2. Open a command prompt or terminal window and navigate to the `PyEmailOutlook` directory:
 cd PyEmailOutlook
